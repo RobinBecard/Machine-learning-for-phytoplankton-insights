@@ -31,9 +31,18 @@ The analysis successfully identified four distinct ecological clusters:
 * **Clusters 1 & 2**: Represent small and medium-sized phytoplankton groups.
 
 ## Repository Structure
-* `/data`: Sample datasets and pigment databases.
-* `/notebooks`: Python code for PCA, K-Means, and data visualization.
-* `/docs`: Final project report.
+'''text
+│   README.md
+│   
+├───data
+│       Data_Etude_de_Cas.csv
+│       
+├───docs
+│       project_report.pdf
+│       
+└───notebooks
+        Phytoplancton.ipynb
+'''
 
 ## Authors
 * **Students**: Alice LITOU, Théo SMOCH, Rayane SAADI, Robin BECARD, Alexandre GOETINCK.
