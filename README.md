@@ -32,7 +32,7 @@ The analysis successfully identified four distinct ecological clusters:
 
 ## Repository Structure
 ```text
-│   README.md
+├───README.md
 │   
 ├───data
 │       Data_Etude_de_Cas.csv
