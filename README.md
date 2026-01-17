@@ -31,7 +31,7 @@ The analysis successfully identified four distinct ecological clusters:
 * **Clusters 1 & 2**: Represent small and medium-sized phytoplankton groups.
 
 ## Repository Structure
-'''text
+```text
 │   README.md
 │   
 ├───data
@@ -42,7 +42,7 @@ The analysis successfully identified four distinct ecological clusters:
 │       
 └───notebooks
         Phytoplancton.ipynb
-'''
+```
 
 ## Authors
 * **Students**: Alice LITOU, Théo SMOCH, Rayane SAADI, Robin BECARD, Alexandre GOETINCK.
