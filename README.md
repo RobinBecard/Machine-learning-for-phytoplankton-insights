@@ -1,7 +1,9 @@
 # Machine Learning for Phytoplankton Understanding
 
-## Project Overview
+## Overview
 Marine biology is at the heart of global climate regulation, carbon dioxide ($CO_2$) control, and biodiversity. This project, conducted at **EILCO**, aims to group and classify types of phytoplankton and their associated pigments to identify biological interactions using **Unsupervised Machine Learning**. 
+
+![System Photo](./assets/phytoplankton.jpg)
 
 By analyzing pigment concentrations from global databases, we identify distinct biological groups that serve as indicators of oceanic biomass and ecosystem health.
 
@@ -16,7 +18,7 @@ Starting with a global database of 9,484 samples:
 
 ### 2. Dimensionality Reduction (PCA)
 Principal Component Analysis (PCA) was used to reduce redundancy:
-* **Dimensions**: The first three dimensions were retained, covering the majority of the variance (Dim1: 57%, Dim2: 17%).
+* **Dimensions**: The first three dimensions were retained, covering the majority of the variance (Dim1: 57%, Dim2: 17%, Dim3: 10%).
 * **Significance**: This step allowed us to focus on the most influential pigment correlations.
 
 ### 3. Clustering (K-Means)
